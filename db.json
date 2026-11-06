@@ -1,36 +1,48 @@
 {
   "books": [
     {
-      "id": "1",
-      "title": "The Hero Of Ages",
-      "openLibraryId": "/works/OL5738154W",
-      "status": "Finished",
-      "rating": null,
-      "review": ""
+      "id": "OL5738154W",
+      "title": "The Hero of Ages",
+      "author": "Brandon Sanderson",
+      "coverId": 14658094,
+      "description": "This book is not only the third book in a trilogy, but it’s Act Three of the the three-act structure for the Mistborn Trilogy—it’s the part of the story where the heroes have discovered that what they thought was the problem all along was not the true danger, and now they’re fighting for not only their own survival but that of the world they live in. The mists are killing people and staying out much longer than they should. The Ashmounts are spewing more and more choking ash into the sky, burying the crops that everyone needs to eat to live. And Ruin, the creature Vin was tricked into freeing from its prison of a millennium, is loose to wreak havoc upon the land. Life under the Lord Ruler is starting to look like paradise in comparison.",
+      "genres": ["Fiction", "Fantasy", "Epic Fantasy"],
+      "status": "Finished"
     },
     {
-      "id": "2",
+      "id": "OL5738148W",
       "title": "The Final Empire",
-      "openLibraryId": "/works/OL5738148W",
-      "status": "Finished",
-      "rating": null,
-      "review": ""
+      "author": "Brandon Sanderson",
+      "coverId": 14658160,
+      "description": "For a thousand years ashes have fallen from the sky.  For a thousand years nothing has flourished.  For a thousand years the skaa have been enslaved and live in misery, mired in inevitable fear.  For a thousand years the Lord Ruler has reigned with absolute power, ruling thanks to terror, his powers and his immortality, aided by \"benders\" and \"inquisitors\", along with the powerful magic of Allomancy.",
+      "genres": ["Fiction", "Fantasy", "Epic Fantasy"],
+      "status": "Finished"
     },
     {
-      "id": "3",
+      "id": "OL15358691W",
       "title": "The Way of Kings",
-      "openLibraryId": "/works/OL15358691W",
-      "status": "",
-      "rating": null,
-      "review": ""
+      "author": "Brandon Sanderson",
+      "coverId": 14658316,
+      "description": "Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter.It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars are fought for them, and won by them.One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable.Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called The Way of Kings. Troubled by overpowering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity.Across the ocean, an untried young woman named Shallan seeks to train under the eminent scholar and notorious heretic Jasnah Kholin, Dalinar’s niece. Though she genuinely loves learning, Shallan’s motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war.",
+      "genres": ["Fiction", "Fantasy", "Epic Fantasy"],
+      "status": "Want to read"
     },
     {
-      "id": "4",
+      "id": "OL37577930W",
       "title": "Wind and Truth",
-      "openLibraryId": "/works/OL37577930W",
-      "status": "",
-      "rating": null,
-      "review": ""
+      "author": "Brandon Sanderson",
+      "coverId": 14836765,
+      "description": "Dalinar Kholin challenged the evil god Odium to a contest of champions with the future of Roshar on the line. The Knights Radiant have only ten days to prepare―and the sudden ascension of the crafty and ruthless Taravangian to take Odium’s place has thrown everything into disarray. Desperate fighting continues simultaneously worldwide―Adolin in Azir, Sigzil and Venli at the Shattered Plains, and Jasnah in Thaylenah. The former assassin, Szeth, must cleanse his homeland of Shinovar from the dark influence of the Unmade. He is accompanied by Kaladin, who faces a new battle helping Szeth fight his own demons . . . and who must do the same for the insane Herald of the Almighty, Ishar.At the same time, Shallan, Renarin, and Rlain work to unravel the mystery behind the Unmade Ba-Ado-Mishram and her involvement in the enslavement of the singer race and in the ancient Knights Radiant killing their spren. And Dalinar and Navani seek an edge against Odium’s champion that can be found only in the Spiritual Realm, where memory and possibility combine in chaos. The fate of the entire Cosmere hangs in the balance.",
+      "genres": ["Fiction", "Fantasy", "Epic Fantasy"],
+      "status": "Finished"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "bookId": "OL37577930W",
+      "rating": 4.5,
+      "comment": "cool book"
     }
   ]
 }
